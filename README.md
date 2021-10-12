@@ -29,7 +29,8 @@ I'm currently working on a research and fact-checking tool for journalists.
 
 ## Previous Projects
 
-- Psychological Trading Framework (student project, framework for Psychology faculty to create social experiments about trading resources, Play Framework)
-- Jazzport (student project, airport mini games, Unity)
-- Ant sim (student project, simulating ants with assembly like code, Java)
-- Catch the sun (student project, mini game, Python and libavg)
+- **Saarland University App** (info for students about bus connections, cafeteria menu, contacts, events, *Xcode*)
+- **Psychological Trading Framework** (for Psychology faculty to create social experiments about trading resources, *Play Framework*)
+- **Jazzport** (airport mini games, *Unity*)
+- **Ant sim** (simulating ants with assembly like code, *Java*)
+- **Catch the sun** (mini game, *Python*)
