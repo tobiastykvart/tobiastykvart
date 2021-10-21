@@ -30,7 +30,7 @@ I'm currently working on a research and fact-checking tool for journalists.
 ## Previous Projects
 
 - **Saarland University App** (info for students about bus connections, cafeteria menu, contacts, events, *Xcode*)
-- **Psychological Trading Framework** (for Psychology faculty to create social experiments about trading resources, *Play Framework*)
+- **Psychological Trading Framework** (for the Psychology faculty at Saarland University to create social experiments about trading resources, *Play Framework*)
 - **Jazzport** (airport mini games, *Unity*)
 - **Ant sim** (simulating ants with assembly like code, *Java*)
 - **Catch the sun** (mini game, *Python*)
