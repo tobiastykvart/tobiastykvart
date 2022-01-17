@@ -1,4 +1,4 @@
-<img align=right width=550px src=https://user-images.githubusercontent.com/44401648/136979879-baacf5e7-31ce-47f6-8b39-7964e0f9772d.jpeg>
+<img align=right width=300px src=https://user-images.githubusercontent.com/44401648/149755910-d282545d-8eb3-4388-8cda-0bf6253db3cd.jpg>
 
 ### Hey, I'm Tobias Tykvart 🦉
 
