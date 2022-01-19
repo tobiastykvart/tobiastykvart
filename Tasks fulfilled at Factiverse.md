@@ -1,11 +1,12 @@
 ## Tasks fulfilled at Factiverse
-- Enforce **Github best practices** (branches with Git flow, branch protection, issue labels, issue/PR templates, consistent commit messages)
+- Develop the first **Intelligent Text Editor** prototype with HTML, Javascript and CSS
 - Set up a **React environment** from scratch, linting with Eslint, Babel, Webpack, Typescript, i18next (internationalization), Draft JS
+- Implement the UX design for the second protoype (**AI Editor**) with React
+- Implement **Microfacts** prototype with React, a tool to support readers with fact boxes
+- Enforce **Github best practices** (branches with Git flow, branch protection, issue labels, issue/PR templates, consistent commit messages)
 - Set up **user-centered testing** with Jest, React Testing Library, user-event, code coverage reports
 - Create **reusable CSS** with SASS
 - Ensure **accessibility**
-- Develop the first prototype (Intelligent Text Editor)
-- Implement the UX design for the second protoype (AI Editor)
 - Design **user tutorials**
 - Design logos, business cards
 - Machine embroider branded keychains
