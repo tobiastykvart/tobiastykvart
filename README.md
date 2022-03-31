@@ -24,6 +24,7 @@ I'm currently working on a research and fact-checking tool for journalists.
 ## Tools
 
 - React
+- Storybook
 - Node
 - Jest
 
