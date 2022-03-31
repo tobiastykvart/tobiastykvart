@@ -1,4 +1,4 @@
-## Tasks fulfilled at Factiverse
+## Tasks at Factiverse
 - Set up a **React environment** from scratch to develop our products with modern web design tools (linting with Eslint, Babel, Webpack, Typescript, i18next, Draft JS)
 - Set up a **design system** workflow from scratch to develop reusable components and enforce consistent design across different products (component development, testing and documentation with Storybook, visual pull requests with Chromatic, CSS styling with Emotion) 
 - Implement the UX design for the second protoype (**AI Editor**) with React
