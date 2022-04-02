@@ -23,6 +23,6 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "True"
           IGNORED_REPOS: "factiverse/BRENDA-server, factiverse/upptime-dev, factiverse/upptime-prod"
