@@ -29,4 +29,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiastykvart&show_icons=true&locale=en&hide=stars&count_private=true&hide_title=true" alt="tobiastykvart" /></p>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 451 Contributions in the Year 2022
+ > 
+> 📦 16.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 02/04/2022 22:57:17 UTC
 <!--END_SECTION:waka-->
