@@ -29,18 +29,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiastykvart&show_icons=true&locale=en&hide=stars&count_private=true&hide_title=true" alt="tobiastykvart" /></p>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
-> 🏆 451 Contributions in the Year 2022
- > 
-> 📦 16.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+🌆 Daytime    351 commits    ███████████████████░░░░░░   76.14% 
+🌃 Evening    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,5 +51,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/04/2022 22:57:17 UTC
+ Last Updated on 02/04/2022 23:02:27 UTC
 <!--END_SECTION:waka-->
