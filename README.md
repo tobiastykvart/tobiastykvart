@@ -1,5 +1,3 @@
-<img align=right width=300px src=https://user-images.githubusercontent.com/44401648/161022265-15b7a922-b4a5-4f33-a109-aefb24fa6cfa.jpg>
-
 <h1 align="center">Hey, I'm Tobias Tykvart 🦉</h1>
 <h3 align="center">Front-End Developer at <a href="https://www.factiverse.no/">Factiverse</a></h3>
 
