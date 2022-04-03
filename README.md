@@ -1,8 +1,7 @@
-<h1 align="center">Hey, I'm Tobias Tykvart 🦉</h1>
-<h3 align="center">Front-End Developer at <a href="https://www.factiverse.no/">Factiverse</a></h3>
+# Hey, I'm Tobias Tykvart 🦉
+## Front-End Developer at [Factiverse](https://www.factiverse.no/)
 
-- 🔎 I'm currently working on a research and fact-checking tool for journalists.
-- 🌱 I’m currently learning atomic web desgin, Storybook and Emotion
+I'm currently working on a research and fact-checking tool for journalists.
 
 ## Interests
 
@@ -24,10 +23,7 @@
 
 ## Sweet stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiastykvart&show_icons=true&locale=en&hide=stars&count_private=true&hide_title=true" alt="tobiastykvart" /></p>
-
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
 
 **I'm an Early 🐤** 
 
