@@ -26,4 +26,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
-          IGNORED_REPOS: "factiverse/BRENDA-server, BRENDA-server, factiverse/upptime-dev, upptime-dev, factiverse/upptime-prod, upptime-prod"
+          IGNORED_REPOS: "factiverse/BRENDA-server, BRENDA-server, factiverse/upptime-dev, upptime-dev, factiverse/upptime-prod, upptime-prod, SADHAN, factiverse/SADHAN, BRENDA, factiverse/BRENDA, factiverse-demo, factiverse/factiverse-demo, ml-models, factiverse/ml-models, template-python, factiverse/template-python"
