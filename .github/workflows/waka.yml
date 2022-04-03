@@ -25,4 +25,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "True"
-          IGNORED_REPOS: "factiverse/BRENDA-server, factiverse/upptime-dev, factiverse/upptime-prod"
+          IGNORED_REPOS: "factiverse/BRENDA-server, BRENDA-server, factiverse/upptime-dev, upptime-dev, factiverse/upptime-prod, upptime-prod"
