@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Tobias Tykvart 🦉</h1>
 <h3 align="center">Front-End Developer at <a href="https://www.factiverse.no/">Factiverse</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiastykvart&label=Profile%20views&color=0e75b6&style=flat" alt="tobiastykvart" /> </p>
-
 - 🔎 I'm currently working on a research and fact-checking tool for journalists.
 - 🌱 I’m currently learning atomic web desgin, Storybook and Emotion
 
