@@ -9,6 +9,11 @@
 
 ### 2021
 
+#### Q4
+
+- Implemented [Microfacts](https://factiverse.github.io/microfacts/) demo
+  - Front-end for an AI by Factiverse which can find entities within a given text and provide explanations for them to give fact boxes to readers of news articles
+
 #### Q2/Q3
 
 - Created a React template repository as the basis for future products at Factiverse
