@@ -7,6 +7,17 @@
 
 ## Now
 
+### 2022
+
+#### Q1
+
+- Implemented [Brenda topics](https://topics.factiverse.no/) demo
+  - Motivated by the conflict in Ukraine this shows recent fact checks on the war but also generally on other topics
+- Set up a design system for Factiverse to develop UI components
+- Learned about:
+  - [Storybook](https://storybook.js.org/) to build modular UI components
+  - [Chromatic](https://www.chromatic.com/) for visual testing, UI feedback and documentation
+
 ### 2021
 
 #### Q4
@@ -28,10 +39,11 @@
   - [Material UI](https://material-ui.com/) to provide template React components
   - [GitHub Pages](https://pages.github.com/) as one way to publish the website
   - [i18next](https://github.com/i18next/react-i18next) to offer support for different languages
+  - [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.) and GitHub best practices to ensure consistent development
 
 #### Q1
 
-- Implemented [Intelligent Text Editor](https://factiverse.github.io/intelligent-text-editor/)
+- Implemented [Intelligent Text Editor](https://factiverse.github.io/intelligent-text-editor/) demo
   - Front-end for an AI by [Factiverse](https://www.factiverse.no/) which can detect factual claims within a given text and finds online sources to support or dispute them
   - This prototype visualized the capabilities of the AI and helped in getting the first funding for Factiverse
 - Learned about:
