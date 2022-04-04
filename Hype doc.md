@@ -20,6 +20,7 @@
 - Implemented [Brenda topics](https://topics.factiverse.no/) demo
   - Motivated by the conflict in Ukraine this shows recent fact checks on the war but also generally on other topics
 - Set up a design system for Factiverse to develop UI components
+- Set up visitor monitoring for our products with [Plausible](https://plausible.io)
 - Learned about:
   - [Storybook](https://storybook.js.org/) to build modular UI components
   - [Chromatic](https://www.chromatic.com/) for visual testing, UI feedback and documentation
@@ -31,6 +32,7 @@
 - Implemented [Microfacts](https://factiverse.github.io/microfacts/) demo
   - Front-end for an AI by Factiverse which can find entities within a given text and provide explanations for them to give fact boxes to readers of news articles
   - Built during [Journalism AI Festival 2021](https://www.journalismaifestival.com/)
+- Set up site monitoring for our products with [Upptime](https://upptime.js.org/)
 
 #### Q2/Q3
 
