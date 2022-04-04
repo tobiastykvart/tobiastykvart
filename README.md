@@ -24,8 +24,6 @@ I'm currently working on a research and fact-checking tools for journalists.
 ## Sweet stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2044%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -74,5 +72,5 @@ Mac                      16 mins             ███████████�
 ```
 
 
- Last Updated on 04/04/2022 18:48:40 UTC
+ Last Updated on 04/04/2022 22:35:33 UTC
 <!--END_SECTION:waka-->
