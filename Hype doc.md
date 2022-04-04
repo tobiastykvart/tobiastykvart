@@ -13,6 +13,7 @@
 
 - Implemented [Microfacts](https://factiverse.github.io/microfacts/) demo
   - Front-end for an AI by Factiverse which can find entities within a given text and provide explanations for them to give fact boxes to readers of news articles
+  - Built during [Journalism AI Festival 2021](https://www.journalismaifestival.com/)
 
 #### Q2/Q3
 
