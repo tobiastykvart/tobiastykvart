@@ -3,7 +3,13 @@
 
 ## Future
 
+- Make Factiverse services accessible to more users (browser plugins, apps, CMS integrations)
+
 ## Next
+
+- Manage a small team of front-end developers
+- Implement and unify components for Factiverse products
+- Test and document components rigorously
 
 ## Now
 
