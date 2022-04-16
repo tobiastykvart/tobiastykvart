@@ -55,20 +55,19 @@ Sunday       51 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          ████████████████████░░░░░   82.26% 
-SCSS                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.74%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-brenda-topics            1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 15/04/2022 18:49:03 UTC
+ Last Updated on 16/04/2022 18:49:13 UTC
 <!--END_SECTION:waka-->
