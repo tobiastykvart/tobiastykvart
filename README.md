@@ -57,19 +57,20 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     3 mins              ███████████████████████░░   95.2% 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.8%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+storybook-design-system  3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/04/2022 18:53:12 UTC
+ Last Updated on 22/04/2022 18:49:46 UTC
 <!--END_SECTION:waka-->
