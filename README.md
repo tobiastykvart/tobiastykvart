@@ -1,7 +1,7 @@
 # Hey, I'm Tobias Tykvart 🦉
 ## Front-end Developer at [Factiverse](https://www.factiverse.no/)
 
-I'm currently working on a research and fact-checking tools for journalists.
+I'm currently working on research and fact-checking tools for journalists.
 
 ## Interests
 
