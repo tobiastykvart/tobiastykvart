@@ -7,13 +7,17 @@
 
 ## Next
 
-- Manage a small team of front-end developers
 - Implement and unify components for Factiverse products
 - Test and document components rigorously
 
 ## Now
 
 ### 2022
+
+#### Q2
+
+- Interviewd two new front-end hires
+- Organised a small team to implement the Factiverse component library
 
 #### Q1
 
