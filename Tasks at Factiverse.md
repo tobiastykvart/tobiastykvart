@@ -6,6 +6,7 @@
 - Implement **Microfacts** prototype with React, a tool to support readers with fact boxes
 - Enforce **Github best practices** (branches with Git flow, branch protection, issue labels, issue/PR templates, consistent commit messages)
 - Set up **user-centered testing** with Jest, React Testing Library, user-event, code coverage reports
+- **Conducted job interviews** with potential front-end hires
 - Create **reusable CSS** with SASS
 - Ensure **accessibility**
 - Design **user tutorials**
