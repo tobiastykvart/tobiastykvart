@@ -1,5 +1,5 @@
 # Hype doc
-*Last updated on 04.04.2022*
+*Last updated on 05.05.2022*
 
 ## Future
 
