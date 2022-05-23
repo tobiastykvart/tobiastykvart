@@ -8,6 +8,7 @@
 ## Next
 
 - Implement and unify components for Factiverse products
+- Use consistent brand theming across components
 - Test and document components rigorously
 
 ## Now
