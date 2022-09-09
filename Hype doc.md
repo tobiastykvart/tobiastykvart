@@ -1,28 +1,40 @@
 # Hype doc
-*Last updated on 05.05.2022*
+
+_Last updated on 09.09.2022_
 
 ## Future
 
-- Make Factiverse services accessible to more users (browser plugins, apps, CMS integrations)
+- Make Factiverse services accessible to more users (browser plugins, Sanity plugin, CMS integrations)
 
 ## Next
 
-- Implement and unify components for Factiverse products
-- Use consistent brand theming across components
-- Test and document components rigorously
+- Use Factiverse Design System components in our products
+- Refactor and simplify our code base by using components and removing duplicate code
 
 ## Now
 
+- Update Microfacts with a new design
+
 ### 2022
+
+#### Q3
+
+- Released the first version of the Factiverse Design System (component library)
+- Guided a small team to implement the Nysnø Dashboard (investment tool)
+- Updated [Topics](https://topics.factiverse.no/) to use URL parameters, add new topics
+- Learned about:
+  - How to develop a [Sanity](https://www.sanity.io/) plugin
+  - How to use [MDX in Storybook](https://storybook.js.org/docs/react/api/mdx) to document components
+  - How to test components with [interactions](https://storybook.js.org/docs/react/writing-tests/interaction-testing)
 
 #### Q2
 
-- Interviewd two new front-end hires
+- Interviewed two new front-end hires
 - Organised a small team to implement the Factiverse component library
 
 #### Q1
 
-- Implemented [Brenda topics](https://topics.factiverse.no/) demo
+- Implemented [Topics](https://topics.factiverse.no/) demo
   - Motivated by the conflict in Ukraine this shows recent fact checks on the war but also generally on other topics
 - Set up a design system for Factiverse to develop UI components
 - Set up visitor monitoring for our products with [Plausible](https://plausible.io)
@@ -34,7 +46,7 @@
 
 #### Q4
 
-- Implemented [Microfacts](https://factiverse.github.io/microfacts/) demo
+- Implemented [Microfacts](https://microfacts.factiverse.no/) demo
   - Front-end for an AI by Factiverse which can find entities within a given text and provide explanations for them to give fact boxes to readers of news articles
   - Built during [Journalism AI Festival 2021](https://www.journalismaifestival.com/)
 - Set up site monitoring for our products with [Upptime](https://upptime.js.org/)
