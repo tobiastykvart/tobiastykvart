@@ -18,7 +18,7 @@ I'm currently working on research and fact-checking tools for journalists.
 
 ## Previous Projects
 
-- **Saarland University App** (info for students about bus connections, cafeteria menu, contacts, events, _Xcode_)
+- The official **Saarland University App** (info for students about bus connections, cafeteria menu, contacts, events, _Xcode_)
 - **Psychological Trading Framework** (for the Psychology faculty at Saarland University to create social experiments about trading resources, _Play Framework_)
 - **Jazzport** (airport mini games, _Unity_)
 - **Ant sim** (simulating ants with assembly like code, _Java_)
