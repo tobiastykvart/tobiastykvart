@@ -1,6 +1,6 @@
 # Hype doc
 
-_Last updated on 09.09.2022_
+_Last updated on 17.01.2022_
 
 ## Future
 
@@ -13,9 +13,17 @@ _Last updated on 09.09.2022_
 
 ## Now
 
-- Update Microfacts with a new design
+- Implement a Microfacts plugin for TinyMCE
 
 ### 2022
+
+#### Q4
+
+- Developed more Factiverse Design System components (favicons, language switcher)
+- Added more documentation for components to make it easier to consume them
+- Updated Microfacts design
+- Learned about:
+  - Implementing a [TinyMCE](https://www.tiny.cloud/) plugin
 
 #### Q3
 
