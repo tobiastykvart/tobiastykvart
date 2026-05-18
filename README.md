@@ -12,12 +12,11 @@ Front-end lead since the company's founding, working with a small team to build 
 
 ## Interests
 
-- User Interface
-- User Experience
-- Visual Design
+- User interface and design systems
+- User and developer experience
+- Agentic coding
+- Technical project management
 - Accessibility
-- Technical Project Management
-- Developer Experience
 
 ## Languages and Tools
 
