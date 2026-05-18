@@ -4,29 +4,36 @@
 
 ### Factiverse App
 
+#### 2023-2026 Factiverse App
+
+Goal: Re-design of _AI Editor_ focusing on UX/UI and integrating all Factiverse features into one app.\
+Feature Overview: Fact-checking of text and video, YouTube channel monitoring, FactiSearch dashboard, API access.\
+Tech Stack: React, Azure, Vite, Cursor, Jest, Storybook, Eslint, Typescript, Material UI, Emotion\
+Team size: 4
+
 #### 2022-2024 FactiSearch
 
 Goal: Dashboard to **explore articles** from fact-check websites worldwide.\
 Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.\
-Tech Stack: Based on [React App Template](####2021-2025-react-app-template)
+Tech Stack: Based on [React Template](####2021-2025-react-template)\
 Team size: 2
 
 #### 2021-2023 AI Editor
 
 Goal: Re-design of the _Intelligent Text Editor_ prototype as a demo for potential customers.\
 Feature Overview: A text editor with built-in fact-checking functionality.\
-Tech Stack: Based on [React App Template](####2021-2025-react-app-template)
-Team size: 2
+Tech Stack: Based on [React Template](####2021-2025-react-template)\
+Team size: 2\
 User signups: ~1000
 
 #### 2021-2023 Microfacts
 
 Goal: Add short explainers to named entities in articles.\
 Feature Overview: Scan any text for named entities and show a explainer popup for each.\
-Tech Stack: Based on [React App Template](####2021-2025-react-app-template)
+Tech Stack: Based on [React Template](####2021-2025-react-template)\
 Team size: 2
 
-#### 2021-2025 React App Template
+#### 2021-2025 React Template
 
 Goal: Template with important tooling  on which future front-end apps can be based.\
 Feature overview: **Simple instructions and setup** to get started with a new React app.\
@@ -38,9 +45,8 @@ Goal: Front-end prototype to **visualize Factiverse API** capabilities for poten
 Feature overview: fact-check both single factual claims and claim detection in longer texts.\
 Tech stack: HTML, Javascript, CSS
 
-- Implement the third iteration of the **Factiverse App** with a new UX to make fact-checking even easier, integrating FactiSearch for users to discover articles from fact-checking websites world-wide; and adding **video fact-checking** and YouTube **channel monitoring** functionality
-- **React environment** from scratch to develop our products with modern web design tools (linting with Eslint, Babel, Vite, Typescript, i18next)
-- **Design system** workflow from scratch to develop reusable components and enforce consistent design across different products (component development, testing and documentation with Storybook, visual pull requests with Chromatic, CSS styling with Emotion)
+
+
 - **Agentic coding workflows** and rules to speed up development while ensuring quality and consistence
 - **Github best practices** (branches with Git flow, branch protection, issue labels, issue/PR templates, consistent commit messages)
 - **User-centered testing** with Jest, React Testing Library, user-event, code coverage reports
@@ -55,7 +61,3 @@ Tech stack: HTML, Javascript, CSS
 - Machine-embroider branded keychains
 - Research example texts for fact checking
 - Write **documentation**
-
-## Completed
-
-- The third prototype (**Factiverse App**) with React, a complete re-design which integrates _FactiSearch_, _AI Editor_, video fact-checking and YouTube channel monitoring
