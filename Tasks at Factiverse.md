@@ -5,7 +5,7 @@
 ### 2023-2026 Factiverse App
 
 Goal: Re-design of _AI Editor_ focusing on UX/UI and integrating all Factiverse features into one app.\
-Feature Overview: Fact-checking of text and video, YouTube channel monitoring, FactiSearch dashboard, API access.\
+Feature overview: Fact-checking of text and video, YouTube channel monitoring, FactiSearch dashboard, API access.\
 Tech Stack: Based on _React Template_, Azure, Vite, Cursor, Storybook, Playwright\
 Team size: 4\
 User signups: ~5000
@@ -13,7 +13,7 @@ User signups: ~5000
 ### 2022-2024 FactiSearch
 
 Goal: Dashboard to **explore articles** from fact-check websites worldwide.\
-Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.\
+Feature overview: Feed with recent fact-checks, searchable with various queries and filters.\
 Tech Stack: Based on _React Template_\
 Team size: 2\
 User signups: ~250
@@ -21,7 +21,7 @@ User signups: ~250
 ### 2021-2023 AI Editor
 
 Goal: Re-design of the _Intelligent Text Editor_ prototype as a demo for potential customers.\
-Feature Overview: A text editor with built-in fact-checking functionality.\
+Feature overview: A text editor with built-in fact-checking functionality.\
 Tech Stack: Based on _React Template_\
 Team size: 2\
 User signups: ~1500
@@ -29,7 +29,7 @@ User signups: ~1500
 ### 2021-2023 Microfacts
 
 Goal: Add short explainers to named entities in articles.\
-Feature Overview: Scan any text for named entities and show a explainer popup for each.\
+Feature overview: Scan any text for named entities and show an explainer popup for each.\
 Tech Stack: Based on _React Template_\
 Team size: 2\
 User signups: ~100
@@ -38,13 +38,13 @@ User signups: ~100
 
 Goal: Establish a shared frontend foundation for all Factiverse products - standardising tooling, enforcing code quality, and reducing setup time for new apps.\
 Feature overview: **Simple instructions and setup** to get started with a new React app.\
-Tech stack: React, Webpack, Jest, Eslint, Typescript, Material UI, Emotion, Github Pages, i18next
+Tech stack: React, Webpack, Jest, ESlint, Typescript, Material UI, Emotion, GitHub Pages, i18next
 
 ### 2021 Intelligent Text Editor
 
 Goal: Frontend prototype to **visualize Factiverse API** capabilities for potential investors.\
-Feature overview: fact-check both single factual claims and claim detection in longer texts.\
-Tech stack: HTML, Javascript, CSS
+Feature overview: fact-check single claims and detect multiple claims in longer texts.\
+Tech stack: HTML, JavaScript, CSS
 
 ## Frontend Architecture
 
