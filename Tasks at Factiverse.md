@@ -6,20 +6,20 @@
 
 #### 2022-2024 FactiSearch
 
-Goal: Dashboard to explore articles from fact-check websites worldwide.
-Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.
+Goal: Dashboard to **explore articles** from fact-check websites worldwide.\
+Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.\
 Tech Stack: See [React App Template](####2021-2025-react-app-template)
 
 #### 2021-2025 React App Template
 
-Goal: Template with important tooling  on which future front-end apps can be based.
-Feature overview: Simple instructions and setup to get started with a new React app.
+Goal: Template with important tooling  on which future front-end apps can be based.\
+Feature overview: **Simple instructions and setup** to get started with a new React app.\
 Tech stack: React, Webpack, Jest, Eslint, Typescript, Material UI, Emotion, Github Pages, i18next
 
 #### 2021 Intelligent Text Editor
 
-Goal: Front-end prototype to **visualize Factiverse API capabilities** for potential investors.
-Feature overview: fact-check both single factual claims and claim detection in longer texts.
+Goal: Front-end prototype to **visualize Factiverse API** capabilities for potential investors.\
+Feature overview: fact-check both single factual claims and claim detection in longer texts.\
 Tech stack: HTML, Javascript, CSS
 
 - Implement the third iteration of the **Factiverse App** with a new UX to make fact-checking even easier, integrating FactiSearch for users to discover articles from fact-checking websites world-wide; and adding **video fact-checking** and YouTube **channel monitoring** functionality
