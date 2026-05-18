@@ -10,6 +10,7 @@ Goal: Re-design of _AI Editor_ focusing on UX/UI and integrating all Factiverse 
 Feature Overview: Fact-checking of text and video, YouTube channel monitoring, FactiSearch dashboard, API access.\
 Tech Stack: React, Azure, Vite, Cursor, Jest, Storybook, Eslint, Typescript, Material UI, Emotion\
 Team size: 4
+User signups: ~5000
 
 #### 2022-2024 FactiSearch
 
