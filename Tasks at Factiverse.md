@@ -12,7 +12,7 @@ User signups: ~5000
 
 ### 2022-2024 FactiSearch
 
-Goal: Dashboard to **explore articles** from fact-check websites worldwide.\
+Goal: Dashboard to explore articles from fact-check websites worldwide.\
 Feature overview: Feed with recent fact-checks, searchable with various queries and filters.\
 Tech Stack: Based on _React Template_\
 Team size: 2\
@@ -37,12 +37,12 @@ User signups: ~100
 ### 2021-2025 React Template
 
 Goal: Establish a shared frontend foundation for all Factiverse products - standardising tooling, enforcing code quality, and reducing setup time for new apps.\
-Feature overview: **Simple instructions and setup** to get started with a new React app.\
+Feature overview: Simple instructions and setup to get started with a new React app.\
 Tech stack: React, Webpack, Jest, ESlint, Typescript, Material UI, Emotion, GitHub Pages, i18next
 
 ### 2021 Intelligent Text Editor
 
-Goal: Frontend prototype to **visualize Factiverse API** capabilities for potential investors.\
+Goal: Frontend prototype to visualize Factiverse API capabilities for potential investors.\
 Feature overview: fact-check single claims and detect multiple claims in longer texts.\
 Tech stack: HTML, JavaScript, CSS
 
@@ -64,22 +64,22 @@ Approach: Introduced Storybook to develop components in isolation, document them
 
 ## Team & Cross-functional
 
-- **Team Lead** - Frontend lead since the company's founding; implemented alongside 1–2 developers, a product manager and a UX designer. Translated non-technical feature requests and bug reports into GitHub issues and tracked delivery.
-- **Hiring** - Conducted frontend engineering interviews
-- **Agentic Workflows** - Defined AI-assisted coding rules and workflows to improve development speed and consistency
-- **GitHub Practices** - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
-- **Documentation** - Maintained technical and user-facing documentation
-- **Branding** - Designed logos, business cards and machine-embroidered keychains
+- Team Lead - Frontend lead since the company's founding; implemented alongside 1–2 developers, a product manager and a UX designer. Translated non-technical feature requests and bug reports into GitHub issues and tracked delivery.
+- Hiring - Conducted frontend engineering interviews
+- Agentic Workflows - Defined AI-assisted coding rules and workflows to improve development speed and consistency
+- GitHub Practices - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
+- Documentation - Maintained technical and user-facing documentation
+- Branding - Designed logos, business cards and machine-embroidered keychains
 
 ## Quality & UX
 
-- **Testing** - Unit tests with Jest, user-centric tests with Playwright; code coverage reports
-- **Accessibility** - Ensured WCAG compliance across products
-- **User Tutorials** - Designed in-app onboarding
+- Testing - Unit tests with Jest, user-centric tests with Playwright; code coverage reports
+- Accessibility - Ensured WCAG compliance across products
+- User Tutorials - Designed in-app onboarding
 
 ## Third-party Integrations
 
-- **Auth0** - Authentication, session management and sign-up flows
-- **Stripe** - Payment integration and subscription management
-- **Customer.io** - Email campaign automation
-- **Sentry** - Error logging and monitoring
+- Auth0 - Authentication, session management and sign-up flows
+- Stripe - Payment integration and subscription management
+- Customer.io - Email campaign automation
+- Sentry - Error logging and monitoring
