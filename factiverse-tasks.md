@@ -1,6 +1,6 @@
-# Tasks at Factiverse
+# Factiverse tasks (2020-2026)
 
-## Product & Prototyping
+## Product & Prototyping timeline
 
 ### 2023-2026 Factiverse App
 
@@ -40,7 +40,7 @@ Goal: Establish a shared frontend foundation for all Factiverse products - stand
 Feature overview: Simple instructions and setup to get started with a new React app.\
 Tech stack: React, Webpack, Jest, ESlint, Typescript, Material UI, Emotion, GitHub Pages, i18next
 
-### 2021 Intelligent Text Editor
+### 2020-2021 Intelligent Text Editor
 
 Goal: Frontend prototype to visualize Factiverse API capabilities for potential investors.\
 Feature overview: fact-check single claims and detect multiple claims in longer texts.\
