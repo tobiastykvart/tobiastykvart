@@ -4,9 +4,15 @@
 
 ### Factiverse App
 
+2021-2025 **React App Template**
+
+Goal: Template with important tooling and on which future front-end apps can be based.
+Feature overview: Simple instructions and setup to get started with a new React app.
+Tech stack: React, Webpack, Jest, Eslint, Typescript, Material UI, Emotion, Github Pages, i18next
+
 2021 **Intelligent Text Editor**
 
-Front-end prototype to **visualize Factiverse API capabilities** for potential investors.
+Goal: Front-end prototype to **visualize Factiverse API capabilities** for potential investors.
 Feature overview: fact-check both single factual claims and claim detection in longer texts.
 Tech stack: HTML, Javascript, CSS
 
