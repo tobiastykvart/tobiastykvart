@@ -1,5 +1,14 @@
 # Factiverse tasks (2020-2026)
 
+## Team & Cross-functional
+
+- Team Lead - Frontend lead since the company's founding; implemented alongside 1–2 developers, a product manager and a UX designer. Translated non-technical feature requests and bug reports into GitHub issues and tracked delivery.
+- Hiring - Conducted frontend engineering interviews
+- Agentic Workflows - Defined AI-assisted coding rules and workflows to improve development speed and consistency
+- GitHub Practices - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
+- Documentation - Maintained technical and user-facing documentation
+- Branding - Designed logos, business cards and machine-embroidered keychains
+
 ## Product & Prototyping timeline
 
 ### 2023-2026 Factiverse App
@@ -61,15 +70,6 @@ Approach: Built a shared React environment with tools chosen to address each pai
 ### Design System
 Problem: No shared component library made it hard to collaborate with the UX designer, keep UI consistent, and reuse work across products.\
 Approach: Introduced Storybook to develop components in isolation, document them, enable visual regression testing with Chromatic, and keep components presentational and discoverable.
-
-## Team & Cross-functional
-
-- Team Lead - Frontend lead since the company's founding; implemented alongside 1–2 developers, a product manager and a UX designer. Translated non-technical feature requests and bug reports into GitHub issues and tracked delivery.
-- Hiring - Conducted frontend engineering interviews
-- Agentic Workflows - Defined AI-assisted coding rules and workflows to improve development speed and consistency
-- GitHub Practices - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
-- Documentation - Maintained technical and user-facing documentation
-- Branding - Designed logos, business cards and machine-embroidered keychains
 
 ## Quality & UX
 
