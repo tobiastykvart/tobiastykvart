@@ -8,7 +8,7 @@
 
 Goal: Dashboard to explore articles from fact-check websites worldwide.
 Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.
-Tech Stack: See [React App Template](#### 2021-2025 React App Template)
+Tech Stack: See [React App Template](####2021-2025-react-app-template)
 
 #### 2021-2025 React App Template
 
