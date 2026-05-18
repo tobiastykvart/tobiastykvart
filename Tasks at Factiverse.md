@@ -64,8 +64,8 @@ Approach: Introduced Storybook to develop components in isolation, document them
 
 ## Team & Cross-functional
 
+- **Team Lead** - Frontend lead since the company's founding; implemented alongside 1–2 developers, a product manager and a UX designer. Translated non-technical feature requests and bug reports into GitHub issues and tracked delivery.
 - **Hiring** - Conducted frontend engineering interviews
-- **Team Lead** - Guided a small frontend team to deliver Factiverse's apps
 - **Agentic Workflows** - Defined AI-assisted coding rules and workflows to improve development speed and consistency
 - **GitHub Practices** - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
 - **Documentation** - Maintained technical and user-facing documentation
