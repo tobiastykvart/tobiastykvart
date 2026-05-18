@@ -34,7 +34,7 @@ Team size: 2
 
 ### 2021-2025 React Template
 
-Goal: Establish a shared frontend foundation for all Factiverse products — standardising tooling, enforcing code quality, and reducing setup time for new apps.\
+Goal: Establish a shared frontend foundation for all Factiverse products - standardising tooling, enforcing code quality, and reducing setup time for new apps.\
 Feature overview: **Simple instructions and setup** to get started with a new React app.\
 Tech stack: React, Webpack, Jest, Eslint, Typescript, Material UI, Emotion, Github Pages, i18next
 
@@ -47,30 +47,37 @@ Tech stack: HTML, Javascript, CSS
 ## Frontend Architecture
 
 ### React Environment
-Problem: The first prototype in plain HTML/CSS/JS was slow to develop, hard to debug, difficult to test and didn't scale to multiple products.
-Approach: Built a shared React environment with tools chosen to address each pain point: React for structure and reusability, Material UI to skip rebuilding common components, ESLint for consistency, Jest and Playwright for user-centric testing, Sentry for production error visibility.
+Problem: The first prototype in plain HTML/CSS/JS was slow to develop, hard to debug, difficult to test and didn't scale to multiple products.\
+Approach: Built a shared React environment with tools chosen to address each pain point
+- React for structure and reusability
+- Material UI to skip rebuilding common components
+- ESLint for code consistency
+- Jest and Playwright for unit and user-centric testing
+- Vite for fast development building
+- Sentry for production error visibility.
 
 ### Design System
-Problem: No shared component library made it hard to collaborate with the UX designer, keep UI consistent, and reuse work across products.
+Problem: No shared component library made it hard to collaborate with the UX designer, keep UI consistent, and reuse work across products.\
 Approach: Introduced Storybook to develop components in isolation, document them, enable visual regression testing with Chromatic, and keep components presentational and discoverable.
-
-## Third-party Integrations
-
-## Quality & UX
 
 ## Team & Cross-functional
 
-- **Agentic coding workflows** and rules to speed up development while ensuring quality and consistence
-- **Github best practices** (branches with Git flow, branch protection, issue labels, issue/PR templates, consistent commit messages)
-- **User-centered testing** with Jest, React Testing Library, user-event, code coverage reports
-- **Authentication and sign-up forms** with Auth0
-- **Stripe** integration for payments
-- **Customer.io** integration for email campaigns
-- **Sentry.io** integration for error logging
-- **Conducted job interviews** with potential front-end hires
-- Ensure **accessibility**
-- Design **user tutorials**
-- Design logos, business cards
-- Machine-embroider branded keychains
-- Research example texts for fact checking
-- Write **documentation**
+- **Hiring** - Conducted frontend engineering interviews
+- **Team Lead** - Guided a small team to deliver the Nysnø Financial Dashboard, a tool for investors to discover portfolio companies
+- **Agentic Workflows** - Defined AI-assisted coding rules and workflows to improve development speed and consistency
+- **GitHub Practices** - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
+- **Documentation** - Maintained technical and user-facing documentation
+- **Branding** - Designed logos, business cards and machine-embroidered keychains
+
+## Quality & UX
+
+- **Testing** - Unit tests with Jest, user-centric tests with Playwright; code coverage reports
+- **Accessibility** - Ensured WCAG compliance across products
+- **User Tutorials** - Designed in-app onboarding
+
+## Third-party Integrations
+
+- **Auth0** - Authentication, session management and sign-up flows
+- **Stripe** - Payment integration and subscription management
+- **Customer.io** - Email campaign automation
+- **Sentry** - Error logging and monitoring
