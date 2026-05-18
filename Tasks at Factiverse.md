@@ -8,14 +8,15 @@ Goal: Re-design of _AI Editor_ focusing on UX/UI and integrating all Factiverse 
 Feature Overview: Fact-checking of text and video, YouTube channel monitoring, FactiSearch dashboard, API access.\
 Tech Stack: Based on _React Template_, Azure, Vite, Cursor, Storybook, Playwright\
 Team size: 4\
-User signups: ~6000
+User signups: ~5000
 
 ### 2022-2024 FactiSearch
 
 Goal: Dashboard to **explore articles** from fact-check websites worldwide.\
 Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.\
 Tech Stack: Based on _React Template_\
-Team size: 2
+Team size: 2\
+User signups: ~250
 
 ### 2021-2023 AI Editor
 
@@ -23,14 +24,15 @@ Goal: Re-design of the _Intelligent Text Editor_ prototype as a demo for potenti
 Feature Overview: A text editor with built-in fact-checking functionality.\
 Tech Stack: Based on _React Template_\
 Team size: 2\
-User signups: ~1000
+User signups: ~1500
 
 ### 2021-2023 Microfacts
 
 Goal: Add short explainers to named entities in articles.\
 Feature Overview: Scan any text for named entities and show a explainer popup for each.\
 Tech Stack: Based on _React Template_\
-Team size: 2
+Team size: 2\
+User signups: ~100
 
 ### 2021-2025 React Template
 
