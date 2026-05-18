@@ -8,7 +8,13 @@
 
 Goal: Dashboard to **explore articles** from fact-check websites worldwide.\
 Feature Overview: Feed with recent fact-checks, searchable with various queries and filters.\
-Tech Stack: See [React App Template](####2021-2025-react-app-template)
+Tech Stack: Based on [React App Template](####2021-2025-react-app-template)
+
+#### 2021-2023 Microfacts
+
+Goal: Add short explainers to named entities in articles.\
+Feature Overview: Scan any text for named entities and show a explainer popup for each.\
+Tech Stack: Based on [React App Template](####2021-2025-react-app-template)
 
 #### 2021-2025 React App Template
 
@@ -44,7 +50,5 @@ Tech stack: HTML, Javascript, CSS
 
 - The second protoype (**AI Editor**) with React, a text editor with fact checking functionality
 - The third prototype (**Factiverse App**) with React, a complete re-design which integrates _FactiSearch_, _AI Editor_, video fact-checking and YouTube channel monitoring
-- **Topics/FactiSearch** prototype with React, a tool to find recent fact checks
-- **Microfacts** prototype with React, a tool to support readers with fact boxes
 - Guide a small team to implement **Nysnø Financial Dashboard**, a tool to help investors discover companies to invest in
 - Create **reusable CSS** with SASS
