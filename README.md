@@ -2,7 +2,9 @@
 
 ## Front-End Developer at [Factiverse](https://www.factiverse.ai/)
 
-I'm currently working on research and fact-checking tools for journalists.
+Front-end lead since the company's founding, working with a small team to build research and fact-checking tools for journalists.
+
+*5 products shipped* across text fact-checking, video analysis, YouTube monitoring and article discovery - [full task overview](./Tasks at Factiverse.md)
 
 ## Interests
 
