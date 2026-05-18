@@ -40,7 +40,7 @@ Tech stack: React, Webpack, Jest, Eslint, Typescript, Material UI, Emotion, Gith
 
 ### 2021 Intelligent Text Editor
 
-Goal: Front-end prototype to **visualize Factiverse API** capabilities for potential investors.\
+Goal: Frontend prototype to **visualize Factiverse API** capabilities for potential investors.\
 Feature overview: fact-check both single factual claims and claim detection in longer texts.\
 Tech stack: HTML, Javascript, CSS
 
@@ -63,7 +63,7 @@ Approach: Introduced Storybook to develop components in isolation, document them
 ## Team & Cross-functional
 
 - **Hiring** - Conducted frontend engineering interviews
-- **Team Lead** - Guided a small team to deliver the Nysnø Financial Dashboard, a tool for investors to discover portfolio companies
+- **Team Lead** - Guided a small frontend team to deliver Factiverse's apps
 - **Agentic Workflows** - Defined AI-assisted coding rules and workflows to improve development speed and consistency
 - **GitHub Practices** - Introduced Git Flow branching, branch protection, issue labels, PR/issue templates and commit conventions
 - **Documentation** - Maintained technical and user-facing documentation
